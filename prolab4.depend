@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546783554 source:c:\users\ryuzaki\desktop\prolab4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
